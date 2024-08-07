@@ -17,7 +17,7 @@ This project is a command-line-based password generator developed in Java. It ge
 
 ## Installation
 
-1. **Clone the Repository** (if applicable):
+1. **Clone the Repository** :
     ```sh
     git clone <repository-url>
     cd <repository-directory>
